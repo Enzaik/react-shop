@@ -154,7 +154,7 @@ const SHOP_DATA = [
   },
   {
     id: 4,
-    title: 'Womens',
+    title: 'Women',
     routeName: 'womens',
     items: [
       {
@@ -197,13 +197,13 @@ const SHOP_DATA = [
         id: 29,
         name: 'White Blouse',
         imageUrl: 'https://i.ibb.co/qBcrsJg/white-vest.png',
-        price: 20
+        price: 20 
       }
     ]
   },
   {
     id: 5,
-    title: 'Mens',
+    title: 'Men',
     routeName: 'mens',
     items: [
       {
